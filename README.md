@@ -30,5 +30,5 @@ Result:
 
 Result:
 
-<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/0004_5092_progress_A.png">
-<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/0004_5093_progress_B.png">
+<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/0055_3731_progress_A.png">
+<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/0055_3731_progress_B.png">
