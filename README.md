@@ -25,10 +25,10 @@ Result:
 
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/CycleGAN/Epoch_200.png">
 
-4. AGGAN (Epoch 4)
+4. AGGAN (Epoch 50)
 <br />
 
 Result:
 
-<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/0055_3731_progress_A.png">
-<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/0055_3731_progress_B.png">
+<img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/AttentionGAN.png">
+
