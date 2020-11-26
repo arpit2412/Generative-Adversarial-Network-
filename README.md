@@ -25,16 +25,18 @@ Result:
 
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/CycleGAN/Epoch_200.png">
 
-4. AGGAN 
+4. AGGAN
 <br />
 
-
 Result:
-Real :
+<br />
+Real :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_real_A.png"> <br />
-Fake :
+Fake :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_fake_B.png"> <br />
-Real :
+Real :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_real_B.png"> <br />
-Fake :
+Fake :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_fake_A.png"> <br />
+
+
