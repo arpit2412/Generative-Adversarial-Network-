@@ -3,17 +3,18 @@
 
 ### Replicating: https://github.com/Ha0Tang/AttentionGAN/tree/master/AttentionGAN-v1
 
-4. AGGAN (Epoch 50)
+AGGAN
 <br />
 
 Result:
-Real :
+<br />
+Real :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_real_A.png"> <br />
-Fake :
+Fake :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_fake_B.png"> <br />
-Real :
+Real :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_real_B.png"> <br />
-Fake :
+Fake :<br />
 <img src = "https://github.com/arpit2412/Generative-Adversarial-Network-/blob/master/AttentionGAN/images/epoch200_fake_A.png"> <br />
 
 
