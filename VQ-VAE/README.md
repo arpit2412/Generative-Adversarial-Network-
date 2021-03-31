@@ -1,0 +1,1 @@
+VQ-VAE with predefined Embedding
