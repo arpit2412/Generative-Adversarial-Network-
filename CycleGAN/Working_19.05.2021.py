@@ -485,8 +485,8 @@ for epoch in range(n_epochs):
     #save_image(gen_imgs.data[:25], "images-193/%d.png" % epoch, nrow=5, normalize=True)
     #torch.save(generator.state_dict(), "saved_models-19/Gen_", epoch,".pth") 
     #torch.save(discriminator.state_dict(), "saved_models-19/Dis%d.pth" % epoch)          
-    torch.save(generator.state_dict(), "saved_models-19/%s/Gen_%d.pth" % (epoch))
-    torch.save(discriminator.state_dict(), "saved_models-19/%s/Gen_%d.pth" % (epoch))
+    torch.save(generator.state_dict(), "saved_models-19/Gen_%d.pth" % (epoch))
+    torch.save(discriminator.state_dict(), "saved_models-19/Dis_%d.pth" % (epoch))
 
 
 # In[ ]:
